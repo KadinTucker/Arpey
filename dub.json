@@ -1,0 +1,12 @@
+{
+	"name": "arpey",
+	"authors": [
+		"Kadin Tucker"
+	],
+	"dependencies": {
+		"gfm": "~>6.2.12"
+	},
+	"description": "A turn based strategy game about role playing a civilization and winning",
+	"copyright": "Copyright © 2017, Kadin Tucker",
+	"license": "proprietary"
+}
